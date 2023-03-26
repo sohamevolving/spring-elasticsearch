@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=simple-jaxrs-application/C:\/Users\/Soham Roy\/.m2\/repository\/org\/javassist\/javassist\/3.22.0-CR2\/javassist-3.22.0-CR2.jar&amp;lt;javassist.tools.rmi(AppletServer.class[AppletServer&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-boot-elasticserach-example/C:\/Users\/Soham Roy\/.m2\/repository\/net\/bytebuddy\/byte-buddy-agent\/1.10.22\/byte-buddy-agent-1.10.22.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/net.bytebuddy=/=/maven.artifactId=/byte-buddy-agent=/=/maven.version=/1.10.22=/=/maven.scope=/test=/=/maven.pomderived=/true=/&amp;lt;net.bytebuddy.agent(Attacher.class[Attacher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-boot-elasticserach-example/C:\/Users\/Soham Roy\/.m2\/repository\/org\/elasticsearch\/elasticsearch\/8.6.2\/elasticsearch-8.6.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.elasticsearch=/=/maven.artifactId=/elasticsearch=/=/maven.version=/8.6.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&amp;lt;org.elasticsearch.bootstrap(Elasticsearch.class[Elasticsearch&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="757"/>
+			<item key="DIALOG_WIDTH" value="565"/>
+			<item key="DIALOG_X_ORIGIN" value="668"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|13.5|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
+		</section>
+	</section>
+</section>
